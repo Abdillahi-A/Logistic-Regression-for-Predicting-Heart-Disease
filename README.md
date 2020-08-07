@@ -31,5 +31,9 @@ The final model found these variables to be statistically significant at the 0.0
 - number of major blood vessels
 - and those with a hereditary blood disorder known as reversible defect thalassemia having a greater likelihood of heart disease diagnosis than those without it.
 
-Perhaps the most surprising result from this analyses was cholesterol not being a significant predictor. In terms of limitation, the sample size of the dataset was very small with only 297 cases, making it difficult for the model to be generalised to wider populations. Furthermore, the lack of key attributes such as smoking, physical activity and diabetes missing from the dataset likely reduced the strength of the model.
+Perhaps the most surprising result from this analyses was cholesterol not being a significant predictor. 
+
+## Limitations:
+
+In terms of limitation, the sample size of the dataset was very small with only 297 cases, making it difficult for the model to be generalised to wider populations. Furthermore, the lack of key attributes such as smoking, physical activity and diabetes missing from the dataset likely reduced the strength of the model.
 
